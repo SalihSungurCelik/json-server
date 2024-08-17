@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "2",
+      "title": "Json Server Deneme Verisi Oluştur",
+      "date": "15/09/2023",
+      "isDone": false
+    },
+    {
+      "id": "1723892581050",
+      "title": "İlk server Todo",
+      "date": "17.08.2024 14:03:01",
+      "isDone": true
+    },
+    {
+      "id": "1723892621738",
+      "title": "İkinci Server Todo",
+      "date": "17.08.2024 14:03:41",
+      "isDone": true
+    }
+  ]
+}
